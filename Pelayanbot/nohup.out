@@ -1,0 +1,395 @@
+[INFO] roomlock loaded.
+[INFO] owners loaded.
+[INFO]Assistant loaded...
+[INFO]manager loaded...
+[INFO] Registered users loaded.
+[INFO]LOADING rooms...
+[INFO] LOADING Notes...
+[INFO] Loading Notifs..
+[INFO] Loading Nicks....
+[INFO]LOADING DEFINITIONS...
+[INFO] Loading IPINFO...
+[INFO] level1 users loaded.
+[INFO] level2 users loaded.
+[INFO] level3 users loaded.
+[INFO] level4 users loaded.
+[INFO] level5 users loaded.
+[INFO] level6 users loaded.
+[INFO] level7 users loaded.
+[INFO] level8 users loaded.
+[INFO] level9 users loaded.
+[INFO] level10 users loaded.
+[INFO] level11 users loaded.
+[INFO] level1 users loaded.
+[+] Connected to eyogetime
+[+] Connected to addictionproject
+[+] Connected to bebasmerdeka
+[+] Connected to jonessquad
+[+] Connected to darenimecom
+[+] Connected to pelayanbotproject
+[+] Connected to animeku-tv
+[+] Connected to ladiessplay
+[SAVE] SAVING NICKS...
+Traceback (most recent call last):
+  File "bot.py", line 2196, in <module>
+    TestBot.easy_start(rooms,hgf,fgh)
+  File "/root/PELAYANBOT/ch.py", line 2180, in easy_start
+    self.main()
+  File "/root/PELAYANBOT/ch.py", line 2157, in main
+    self._tick()
+  File "/root/PELAYANBOT/ch.py", line 2052, in _tick
+    task.func(*task.args, **task.kw)
+TypeError: 'NoneType' object is not callable
+[INFO] roomlock loaded.
+[INFO] owners loaded.
+[INFO]Assistant loaded...
+[INFO]manager loaded...
+[INFO] Registered users loaded.
+[INFO]LOADING rooms...
+[INFO] LOADING Notes...
+[INFO] Loading Notifs..
+[INFO] Loading Nicks....
+[INFO]LOADING DEFINITIONS...
+[INFO] Loading IPINFO...
+[INFO] level1 users loaded.
+[INFO] level2 users loaded.
+[INFO] level3 users loaded.
+[INFO] level4 users loaded.
+[INFO] level5 users loaded.
+[INFO] level6 users loaded.
+[INFO] level7 users loaded.
+[INFO] level8 users loaded.
+[INFO] level9 users loaded.
+[INFO] level10 users loaded.
+[INFO] level11 users loaded.
+[INFO] level1 users loaded.
+[+] Connected to bebasmerdeka
+[+] Connected to addictionproject
+[+] Connected to eyogetime
+[+] Connected to jonessquad
+[+] Connected to darenimecom
+[+] Connected to pelayanbotproject
+[+] Connected to animeku-tv
+[+] Connected to ladiessplay
+[SAVE] SAVING NICKS...
+[+] Disconnected from eyogetime
+[+] Disconnected from addictionproject
+[+] Disconnected from jonessquad
+[+] Disconnected from darenimecom
+[SAVE] SAVING NICKS...
+[+] Connected to addictionproject
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[+] Reconnecting...
+Traceback (most recent call last):
+  File "bot.py", line 2196, in <module>
+    TestBot.easy_start(rooms,hgf,fgh)
+  File "/root/PELAYANBOT/ch.py", line 2180, in easy_start
+    self.main()
+  File "/root/PELAYANBOT/ch.py", line 2145, in main
+    con._feed(data)
+  File "/root/PELAYANBOT/ch.py", line 870, in _feed
+    self._process(food.decode(errors="replace").rstrip("\r\n"))
+  File "/root/PELAYANBOT/ch.py", line 885, in _process
+    getattr(self, func)(args)
+  File "/root/PELAYANBOT/ch.py", line 1046, in _rcmd_i
+    self._i_log.append(msg)
+AttributeError: 'Room' object has no attribute '_i_log'
+[INFO] Loading Game....
+[INFO] roomlock loaded.
+[INFO] owners loaded.
+[INFO]Assistant loaded...
+[INFO]manager loaded...
+[INFO] Registered users loaded.
+[INFO]LOADING rooms...
+[INFO] Loading Nicks....
+[INFO]LOADING DEFINITIONS...
+[INFO] Loading IPINFO...
+[+] Connected to ladiessplay
+[+] Connected to pelayanbotproject
+[+] Connected to bebasmerdeka
+[+] Connected to animeku-tv
+mfd7shutdown: invalid option: -s
+Try `shutdown --help' for more information.
+[INFO] Loading Game....
+[INFO] roomlock loaded.
+[INFO] owners loaded.
+[INFO]Assistant loaded...
+[INFO]manager loaded...
+[INFO] Registered users loaded.
+[INFO]LOADING rooms...
+[INFO] Loading Nicks....
+[INFO]LOADING DEFINITIONS...
+[INFO] Loading IPINFO...
+[+] Connected to animeku-tv
+[+] Connected to ladiessplay
+[+] Connected to bebasmerdeka
+[+] Connected to pelayanbotproject
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[+] Connected to risinghope
+[+] Connected to duchessproject
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+PM - kamalg08: bot jahat T-T
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[obsolete] the delete function is obsolete, please use deleteUser
+[+] Disconnected from ladiessplay
+[+] Connected to ladiessplay
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+Traceback (most recent call last):
+  File "bot.py", line 1836, in <module>
+    TestBot.easy_start(rooms,hgf,fgh)
+  File "/root/PELAYANBOT/ch.py", line 2180, in easy_start
+    self.main()
+  File "/root/PELAYANBOT/ch.py", line 2145, in main
+    con._feed(data)
+  File "/root/PELAYANBOT/ch.py", line 870, in _feed
+    self._process(food.decode(errors="replace").rstrip("\r\n"))
+  File "/root/PELAYANBOT/ch.py", line 885, in _process
+    getattr(self, func)(args)
+  File "/root/PELAYANBOT/ch.py", line 1153, in _rcmd_unblocked
+    del self._banlist[target]
+KeyError: <User: theshirozetsu;3slavpswo5kuguzgv1aiba==>
+[INFO] Loading Game....
+[INFO] roomlock loaded.
+[INFO] owners loaded.
+[INFO]Assistant loaded...
+[INFO]manager loaded...
+[INFO] Registered users loaded.
+[INFO]LOADING rooms...
+[INFO] Loading Nicks....
+[INFO]LOADING DEFINITIONS...
+[INFO] Loading IPINFO...
+[+] Connected to animeku-tv
+[+] Connected to ladiessplay
+[+] Connected to pelayanbotproject
+[+] Connected to duchessproject
+Traceback (most recent call last):
+  File "bot.py", line 1836, in <module>
+    TestBot.easy_start(rooms,hgf,fgh)
+  File "/root/PELAYANBOT/ch.py", line 2180, in easy_start
+    self.main()
+  File "/root/PELAYANBOT/ch.py", line 2145, in main
+    con._feed(data)
+  File "/root/PELAYANBOT/ch.py", line 870, in _feed
+    self._process(food.decode(errors="replace").rstrip("\r\n"))
+  File "/root/PELAYANBOT/ch.py", line 885, in _process
+    getattr(self, func)(args)
+  File "/root/PELAYANBOT/ch.py", line 1153, in _rcmd_unblocked
+    del self._banlist[target]
+KeyError: <User: avionbot;2chdvjgunpoijezbsfedaw==>
+[INFO] Loading Game....
+[INFO] roomlock loaded.
+[INFO] owners loaded.
+[INFO]Assistant loaded...
+[INFO]manager loaded...
+[INFO] Registered users loaded.
+[INFO]LOADING rooms...
+[INFO] Loading Nicks....
+[INFO]LOADING DEFINITIONS...
+[INFO] Loading IPINFO...
+[+] Connected to animeku-tv
+[+] Connected to ladiessplay
+[+] Connected to pelayanbotproject
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[+] Connected to markasbesar
+[SAVE] SAVING NICKS...
+[+] Disconnected from animeku-tv
+[+] Disconnected from pelayanbotproject
+[+] Disconnected from markasbesar
+[+] Disconnected from ladiessplay
+[SAVE] SAVING ROOMS...
+[INFO] Loading Game....
+[INFO] roomlock loaded.
+[INFO] owners loaded.
+[INFO]Assistant loaded...
+[INFO]manager loaded...
+[INFO] Registered users loaded.
+[INFO]LOADING rooms...
+[INFO] Loading Nicks....
+[INFO]LOADING DEFINITIONS...
+[INFO] Loading IPINFO...
+[+] Connected to animeku-tv
+[+] Connected to jonessquad
+[+] Connected to dewasaproject
+[+] Connected to ladiessplay
+[+] Connected to pelayanbotproject
+[+] Disconnected from animeku-tv
+[+] Disconnected from dewasaproject
+[+] Disconnected from jonessquad
+[+] Disconnected from pelayanbotproject
+[+] Disconnected from ladiessplay
+[SAVE] SAVING ROOMS...
+[INFO] Loading Game....
+[INFO] roomlock loaded.
+[INFO] owners loaded.
+[INFO]Assistant loaded...
+[INFO]manager loaded...
+[INFO] Registered users loaded.
+[INFO]LOADING rooms...
+[INFO] Loading Nicks....
+[INFO]LOADING DEFINITIONS...
+[INFO] Loading IPINFO...
+[+] Connected to animeku-tv
+[+] Connected to dewasaproject
+[+] Connected to jonessquad
+[+] Connected to ladiessplay
+[+] Connected to pelayanbotproject
+[+] Connected to markasbesar
+[+] Disconnected from pelayanbotproject
+[+] Disconnected from markasbesar
+[+] Disconnected from jonessquad
+[+] Disconnected from ladiessplay
+[+] Disconnected from animeku-tv
+[+] Disconnected from dewasaproject
+[SAVE] SAVING ROOMS...
+Traceback (most recent call last):
+  File "ping.py", line 10, in <module>
+    ping()
+  File "ping.py", line 6, in ping
+    data = urllib.request.urlopen("python-mfd7.rhcloud.com").read()
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 156, in urlopen
+    return opener.open(url, data, timeout)
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 454, in open
+    req = Request(fullurl, data)
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 275, in __init__
+    self._parse()
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 280, in _parse
+    raise ValueError("unknown url type: %r" % self.full_url)
+ValueError: unknown url type: 'python-mfd7.rhcloud.com'
+[INFO] Loading Game....
+Traceback (most recent call last):
+  File "bot.py", line 29, in <module>
+    import ping
+  File "/var/lib/openshift/5650cf470c1e6689e8000110/python/Pelayanbot/ping.py", line 10, in <module>
+    ping()
+  File "/var/lib/openshift/5650cf470c1e6689e8000110/python/Pelayanbot/ping.py", line 6, in ping
+    data = urllib.request.urlopen("pelayanbot-mfd7.rhcloud.com").read()
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 156, in urlopen
+    return opener.open(url, data, timeout)
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 454, in open
+    req = Request(fullurl, data)
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 275, in __init__
+    self._parse()
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 280, in _parse
+    raise ValueError("unknown url type: %r" % self.full_url)
+ValueError: unknown url type: 'pelayanbot-mfd7.rhcloud.com'
+[INFO] Loading Game....
+Traceback (most recent call last):
+  File "bot.py", line 29, in <module>
+    import ping
+  File "/var/lib/openshift/5650cf470c1e6689e8000110/python/Pelayanbot/ping.py", line 10, in <module>
+    ping()
+  File "/var/lib/openshift/5650cf470c1e6689e8000110/python/Pelayanbot/ping.py", line 6, in ping
+    data = urllib.request.urlopen("pelayanbot-mfd7.rhcloud.com").read()
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 156, in urlopen
+    return opener.open(url, data, timeout)
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 454, in open
+    req = Request(fullurl, data)
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 275, in __init__
+    self._parse()
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 280, in _parse
+    raise ValueError("unknown url type: %r" % self.full_url)
+ValueError: unknown url type: 'pelayanbot-mfd7.rhcloud.com'
+python: can't open file 'pelayanbot': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "ping.py", line 10, in <module>
+    ping()
+  File "ping.py", line 6, in ping
+    data = urllib.request.urlopen("pelayanbot-mfd7.rhcloud.com").read()
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 156, in urlopen
+    return opener.open(url, data, timeout)
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 454, in open
+    req = Request(fullurl, data)
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 275, in __init__
+    self._parse()
+  File "/opt/rh/python33/root/usr/lib64/python3.3/urllib/request.py", line 280, in _parse
+    raise ValueError("unknown url type: %r" % self.full_url)
+ValueError: unknown url type: 'pelayanbot-mfd7.rhcloud.com'
+[INFO] Loading Game....
+[INFO] roomlock loaded.
+[INFO] owners loaded.
+[INFO]Assistant loaded...
+[INFO]manager loaded...
+[INFO] Registered users loaded.
+[INFO]LOADING rooms...
+[INFO] Loading Nicks....
+[INFO]LOADING DEFINITIONS...
+[INFO] Loading IPINFO...
+[+] Connected to duchessproject
+[+] Connected to animeku-tv
+[+] Connected to ladiessplay
+[+] Connected to pelayanbotproject
+[+] Connected to chibasu
+[+] Disconnected from animeku-tv
+[+] Disconnected from duchessproject
+[+] Disconnected from pelayanbotproject
+[+] Disconnected from chibasu
+[+] Disconnected from ladiessplay
+[SAVE] SAVING ROOMS...
+[INFO] Loading Game....
+[INFO] roomlock loaded.
+[INFO] owners loaded.
+[INFO]Assistant loaded...
+[INFO]manager loaded...
+[INFO] Registered users loaded.
+[INFO]LOADING rooms...
+[INFO] Loading Nicks....
+[INFO]LOADING DEFINITIONS...
+[INFO] Loading IPINFO...
+[+] Connected to pelayanbotproject
+[+] Connected to chibasu
+[+] Connected to duchessproject
+[+] Connected to animeku-tv
+[+] Connected to ladiessplay
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[+] Connected to animeku
+[+] Disconnected from animeku
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+[+] Disconnected from duchessproject
+[+] Disconnected from pelayanbotproject
+[+] Disconnected from ladiessplay
+[+] Connected to ladiessplay
+[+] Connected to markasbesar
+[+] Connected to pelayanbotproject
+[SAVE] SAVING NICKS...
+[+] Connected to duchessproject
+[SAVE] SAVING NICKS...
+[SAVE] SAVING NICKS...
+Traceback (most recent call last):
+  File "bot.py", line 1888, in <module>
+    TestBot.easy_start(rooms,hgf,fgh)
+  File "/root/Pelayanbot/ch.py", line 2180, in easy_start
+    self.main()
+  File "/root/Pelayanbot/ch.py", line 2145, in main
+    con._feed(data)
+  File "/root/Pelayanbot/ch.py", line 870, in _feed
+    self._process(food.decode(errors="replace").rstrip("\r\n"))
+  File "/root/Pelayanbot/ch.py", line 885, in _process
+    getattr(self, func)(args)
+  File "/root/Pelayanbot/ch.py", line 1153, in _rcmd_unblocked
+    del self._banlist[target]
+KeyError: <User: rmbrant;3sdrujoyppogiujfsveeaq==>
